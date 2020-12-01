@@ -16,7 +16,7 @@ People in the picture are:
 
 
 
-![](../assets/images/family.jpg "family picture")
+![alt text](../assets/images/family.jpg "family picture")
 
 ---
 **Test**: This is atest
