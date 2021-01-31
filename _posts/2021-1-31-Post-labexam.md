@@ -10,7 +10,7 @@ title: My Hackathon Project
 [my project](http://99521181.pythonanywhere.com/)
 
 
-[![name](../assets/images/hackaton.jpg)](http://99521181.pythonanywhere.com/)
+[![web page](../assets/images/hackaton.jpg)](http://99521181.pythonanywhere.com/)
 
 ---
 
