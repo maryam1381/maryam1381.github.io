@@ -12,6 +12,6 @@ title: My Hackathon Project
 
 
 
-[../assets/images/family.jpg](http://99521181.pythonanywhere.com/)
+[(../assets/images/family.jpg)](http://99521181.pythonanywhere.com/)
 ---
 
