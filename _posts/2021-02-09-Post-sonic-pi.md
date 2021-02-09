@@ -14,7 +14,7 @@ title: sonic pi
 
 
 [my song](https://soundcloud.com/user-637058122/my-song)
-
+![image](https://images.ctfassets.net/tvfg2m04ppj4/5o3OiKw9sXIchBq9FSkDMk/0698ef334e9de97238b01d05e5f45566/logo.png?w=800 "sonic pi")
 
 
 
