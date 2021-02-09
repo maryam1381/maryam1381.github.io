@@ -3,7 +3,7 @@ layout: posts
 title: My new picture
 ---
 
-## This is my family
+## my friend
 People in the picture are:
 - Erfan
 - Negar
