@@ -6,17 +6,18 @@ title: My new picture
 ## This is my family
 People in the picture are:
 - Erfan
-- Sobhan
-- Sara
+- Negar
+- Meraj
 - Me
+
+
+
+![image](../assets/images/travel.jpg "family picture")
+
 
 [my favorite website](http://www.google.com)
 
 
-
-
-
-![alt text](../assets/images/family.jpg "family picture")
 
 ---
 **Test**: This is atest
