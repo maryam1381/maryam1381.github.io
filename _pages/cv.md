@@ -1,64 +1,106 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Iran University of Science and Technology (IUST)**, Tehran, Iran  
+*B.Sc. in Computer Engineering* &nbsp;|&nbsp; 2020 – 2025  
+- GPA (Last Two Years): **3.92 / 4.0**  
+- Overall GPA: **3.75 / 4.0**  
+- Selected Courses:  
+  Data Science, Artificial Intelligence, Graph Theory & Algorithms,  
+  Network Engineering, Signals and Systems, Database Design
 
-Work experience
+**Exemplary Public High School**, Yazd, Iran  
+*Diploma in Mathematics and Physics* &nbsp;|&nbsp; 2016 – 2020  
+- Final Grade: **19.36 / 20**
+
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Research Intern – Bachelor’s Thesis**  
+Iran University of Science and Technology &nbsp;|&nbsp; Aug 2024 – Aug 2025  
+Supervisor: *Dr. Vesal Hakami*  
+- Developed a robust Learning-to-Optimize (L2O) framework for device-to-device (D2D) caching  
+- Applied Conditional Value-at-Risk (CVaR) optimization under uncertain network conditions  
+- Designed neural-network-based low-latency inference policies for edge networks  
+- Used digital-twin-assisted modeling to improve robustness against network failures  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Linux Kernel Lab Intern**  
+Iran University of Science and Technology (Remote) &nbsp;|&nbsp; 2025 (6 months)  
+Supervisor: *Dr. Vahid Azhari*  
+- Developed a tool for tracing resource allocation in the Linux Kernel  
+- Worked with low-level system debugging and performance analysis  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Teaching Experience
+======
+**Teaching Assistant**, School of Computer Engineering, IUST &nbsp;|&nbsp; 2021 – 2025  
+- Computer-Aided Digital System Design (Spring 2025)  
+- Security of Computer Systems (Fall 2024)  
+- Data Structures – *Head TA* (Fall 2023)  
+- Algorithms Design (Spring 2023)  
+- Discrete Mathematics (Spring 2022, Spring 2023)  
+- Fundamentals of Programming (Fall 2021)  
+
+Industrial Experience
+======
+**Full-Stack Developer**  
+Hamkaran System, Tehran &nbsp;|&nbsp; 2023 – 2024  
+- Backend development using **C#** and **.NET Framework**  
+- Collaborated in full-stack web application development  
+
+Projects
+======
+**Accordion – Music Streaming Platform**  
+System Analysis and Design Course Project &nbsp;|&nbsp; Fall 2022  
+- User-centric website and Telegram bot inspired by Spotify  
+- Backend development using .NET Framework  
+- Frontend implemented with React.js  
+
+**Game Accounts Shop**  
+Software Engineering Course Project &nbsp;|&nbsp; Fall 2023  
+- Online platform for selling digital games and premium accounts  
+- Backend implemented with Django  
+- Frontend implemented with React.js  
+
+**Artificial Intelligence Course Projects** &nbsp;|&nbsp; Spring 2023  
+- Decision Trees  
+- Artificial Neural Networks  
+- Genetic Programming for Function Approximation  
+- Support Vector Machines  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Programming Languages:** Python, C#, C++  
+- **Tools & Environments:** Git, Linux (Ubuntu), gdb, Postman  
+- **Concepts:** Machine Learning, Deep Learning, Network Optimization, Edge Computing  
 
-Publications
+Honors & Certifications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+- Ranked **Top 0.3%** in Iranian University Entrance Exam (398 / 155,000)  
+- CS50’s Introduction to Artificial Intelligence with Python (edX)  
+- Machine Learning Specialization – Coursera  
+- Deep Learning Specialization – Coursera  
+
+Languages
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+- Persian: Native  
+- English: IELTS Overall **7.0**  
+  (R: 7.5, L: 7.5, S: 6.5, W: 7.0)
+
+Service & Membership
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Volunteer Member**, Computer Engineering Scientific Association (CESA) &nbsp;|&nbsp; 2021 – 2024  
+- Main member for one year; volunteer member for two years  
+- Responsible for finance and purchasing  
+- Organized academic and technical events
+
+
+
+{% include base_path %}
+
