@@ -17,7 +17,7 @@ Education
   Data Science, Artificial Intelligence, Graph Theory & Algorithms,  
   Network Engineering, Signals and Systems, Database Design
 
-**Exemplary Public High School**, Yazd, Iran  
+**Nemooneh High School (Selective Public High School)**, Yazd, Iran  
 *Diploma in Mathematics and Physics* &nbsp;|&nbsp; 2016 – 2020  
 - Final Grade: **19.36 / 20**
 
