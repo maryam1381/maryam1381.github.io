@@ -18,6 +18,6 @@ author_profile: true
   When I am not working on optimization algorithms, you can usually find me <b>gardening</b>, capturing moments through <b>photography</b>, or exploring new ideas in FinTech. I love finding simple solutions to complex problems—whether in a dataset or in a garden.
 </p>
 
-<p style="background-color: #f3f6f9; padding: 15px; border-radius: 8px; margin-top: 20px;">
+<p>
   🚀 <b>Next Steps:</b> I am currently preparing applications for <b>M.Sc. programs (Fall 2026)</b>. I am actively seeking a research environment where I can contribute to work on Federated Learning and large-scale networked systems.
 </p>
