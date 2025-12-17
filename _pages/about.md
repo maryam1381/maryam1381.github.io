@@ -4,12 +4,20 @@ permalink: /
 author_profile: true
 ---
 
-I recently completed my **B.Sc. in Computer Engineering** at the **Iran University of Science and Technology (IUST)**.
-My academic interests lie at the intersection of **Machine Learning**, **Federated Learning**, and
-**Optimization for large-scale networked systems**.
+<h3>About Me</h3>
 
-My bachelor's thesis, *Robust Learning-to-Optimize for D2D Caching*, focused on risk-aware optimization
-using **CVaR** under uncertainty, combining neural networks with stochastic modeling.
+<p>
+  Hi, I am <b>Maryam Jafari Sarvolya</b>. I recently graduated with a <b>B.Sc. in Computer Engineering</b> from the <a href="http://www.iust.ac.ir/">Iran University of Science and Technology (IUST)</a> in October 2025.
+</p>
 
-I am currently preparing applications for **MSc programs (Fall 2026)** and actively seeking
-research-oriented environments where learning, optimization, and distributed systems intersect.
+<p>
+  While I am passionate about <b>Machine Learning</b> and building intelligent systems, I believe there is more to life than just code. I am a curious learner who enjoys exploring the intersection of technology and society. 
+</p>
+
+<p>
+  When I am not working on optimization algorithms, you can usually find me <b>gardening</b>, capturing moments through <b>photography</b>, or exploring new ideas in FinTech. I love finding simple solutions to complex problems—whether in a dataset or in a garden.
+</p>
+
+<p style="background-color: #f3f6f9; padding: 15px; border-radius: 8px; margin-top: 20px;">
+  🚀 <b>Next Steps:</b> I am currently preparing applications for <b>M.Sc. programs (Fall 2026)</b>. I am actively seeking a research environment where I can contribute to work on Federated Learning and large-scale networked systems.
+</p>
