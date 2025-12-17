@@ -10,14 +10,10 @@ author_profile: true
   Hi, I am <b>Maryam Jafari Sarvolya</b>. I recently graduated with a <b>B.Sc. in Computer Engineering</b> from the <a href="http://www.iust.ac.ir/">Iran University of Science and Technology (IUST)</a> in October 2025.
 </p>
 
-<p>
-  While I am passionate about <b>Machine Learning</b> and building intelligent systems, I believe there is more to life than just code. I am a curious learner who enjoys exploring the intersection of technology and society. 
-</p>
+These days, I spend much of my time with my family, which I value deeply.
 
-<p>
-  When I am not working on optimization algorithms, you can usually find me <b>gardening</b>, capturing moments through <b>photography</b>, or exploring new ideas in FinTech. I love finding simple solutions to complex problems—whether in a dataset or in a garden.
-</p>
+Outside of my academic path, I enjoy swimming, spending time with my friends, and taking care of plants—activities that make me feel alive and help me stay grounded in the real world. I love traveling and try not to limit myself to familiar or repetitive experiences, as I believe personal growth comes from exploring new paths and perspectives.
 
-<p>
-  🚀 <b>Next Steps:</b> I am currently preparing applications for <b>M.Sc. programs (Fall 2026)</b>. I am actively seeking a research environment where I can contribute to work on Federated Learning and large-scale networked systems.
-</p>
+I am also an avid reader, especially of novels, although I have been a bit distant from reading lately. My favorite book is "The Girl Who Saved the King of Sweden". 
+
+
